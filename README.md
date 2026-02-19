@@ -1,4 +1,5 @@
-```mermaid flowchart LR
+```mermaid
+Flowchart LR
   UI[Browser] --> ORCH[AI Orchestrator API]
   ORCH --> ASR[ASR module]
   ORCH --> CMD[Command Agent module]
